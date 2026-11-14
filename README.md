@@ -8,10 +8,10 @@ NusaInfo is a simple Flutter application that displays announcements using the J
 - Display announcement details.
 - Retrieve comments from the API.
 - Add announcements using HTTP POST.
-- Form validation using GlobalKey<FormState>.
+- Form validation using `GlobalKey<FormState>`.
 - Loading and error states.
 - Retry button when an internet connection fails.
-- Pull-to-refresh using RefreshIndicator.
+- Pull-to-refresh using `RefreshIndicator`.
 - Success notification using SnackBar.
 
 ## API Used
@@ -42,21 +42,27 @@ lib/
 ## Application Screenshots
 
 ### 1. Home Screen
+
 ![Home Screen](screenshots/home.jpg)
 
 ### 2. Detail Screen
+
 ![Detail Screen](screenshots/detail.jpg)
 
 ### 3. Add Announcement Screen
+
 ![Add Announcement Screen](screenshots/add_post.jpg)
 
 ### 4. Form Validation
+
 ![Form Validation](screenshots/validation.jpg)
 
 ### 5. Offline Error Handling
+
 ![Offline Error](screenshots/offline_error.jpg)
 
 ### 6. Successful Submission Notification
+
 ![Success SnackBar](screenshots/snackbar_success.jpg)
 
 ## Installation and Running
@@ -81,3 +87,7 @@ flutter run
 - Dart
 - HTTP package
 - JSONPlaceholder REST API
+
+## Author
+
+Nazwa Khairunnisa Hakiki
