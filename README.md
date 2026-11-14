@@ -63,7 +63,7 @@ lib/
 
 ### 6. Successful Submission Notification
 
-![Success SnackBar](screenshots/snackbar_success.jpg)
+![Success SnackBar](screenshots/snackbar_succes.jpg)
 
 ## Installation and Running
 
